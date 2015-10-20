@@ -1,0 +1,15 @@
+{
+  "name": "udp_parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eugene Dementev",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.10.2",
+    "request": "^2.65.0"
+  }
+}
